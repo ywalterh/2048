@@ -1,0 +1,24 @@
+PODS:
+  - Kiwi/ARC (2.2.4)
+  - Kiwi/NonARC (2.2.4)
+  - Kiwi/XCTest (2.2.4):
+    - Kiwi/ARC
+    - Kiwi/NonARC
+  - M13ProgressSuite (1.2.9)
+
+DEPENDENCIES:
+  - Kiwi/XCTest
+  - M13ProgressSuite
+
+SPEC REPOS:
+  trunk:
+    - Kiwi
+    - M13ProgressSuite
+
+SPEC CHECKSUMS:
+  Kiwi: c58165bd21aba5c7541adec5ab55a238832808b9
+  M13ProgressSuite: ea9f7263e73e9215e6849dfa54e29ee0ad6a145c
+
+PODFILE CHECKSUM: e5687a9187b75bf2d9f7f3e23858afd7366b8334
+
+COCOAPODS: 1.9.3
